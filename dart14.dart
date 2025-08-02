@@ -18,4 +18,5 @@ void main() {
 
   Set<String> cities = {'New York', 'Los Angeles', 'Chicago'};
   print(cities.contains('Los Angeles')); //true
+  print(cities.contains('Miami'));// false
 }
