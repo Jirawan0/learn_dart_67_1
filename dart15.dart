@@ -1,4 +1,4 @@
-// Switch Case
+// Switch case
 
 void main() {
   int number = 2;
@@ -11,8 +11,10 @@ void main() {
       print("Number is two");
       break;
     case 3:
-      print("Number is three");
-      break;
+      {
+        print("Number is three");
+        break;
+      }
     default:
       print("Number is not one, two, or three");
   }
