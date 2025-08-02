@@ -19,5 +19,4 @@ void main() {
   List<String> listVariable4 = ["Apple", "Banana", "Cherry"];
   print(listVariable4[1]);
   print(listVariable4);
-  print("---------------------");
 }
